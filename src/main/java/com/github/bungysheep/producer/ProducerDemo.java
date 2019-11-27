@@ -9,7 +9,7 @@ import java.util.Properties;
 
 public class ProducerDemo {
     public static void main(String[] args) {
-        final Logger logger = LoggerFactory.getLogger(ProducerDemo.class);
+        final Logger logger = LoggerFactory.getLogger(ProducerDemo.class.getName());
 
         // Create producer properties
         Properties properties = new Properties();
