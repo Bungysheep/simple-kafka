@@ -1,4 +1,4 @@
-package com.github.bungyesheep.consumer;
+package com.github.bungysheep.consumer;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
